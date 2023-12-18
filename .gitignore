@@ -1,0 +1,9 @@
+# ignorar de git el archivo seguro.py.
+# git rm --cached seguro.py
+# git commit -m "ignorar archivo seguro.py"
+# git push origin master
+# git pull origin master
+seguro.py
+venv/
+__pycache__/
+
